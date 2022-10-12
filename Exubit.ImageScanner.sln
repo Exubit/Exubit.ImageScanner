@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32901.215
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Exubit.ImageScanner", "Exubit.ImageScanner\Exubit.ImageScanner.csproj", "{002FBF2B-0071-4B24-B20F-E49DFD29DF27}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sample", "Sample\Sample.csproj", "{63A6C2B0-020A-4EB0-8B61-4E893C4477E2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{002FBF2B-0071-4B24-B20F-E49DFD29DF27}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{002FBF2B-0071-4B24-B20F-E49DFD29DF27}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{002FBF2B-0071-4B24-B20F-E49DFD29DF27}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{002FBF2B-0071-4B24-B20F-E49DFD29DF27}.Release|Any CPU.Build.0 = Release|Any CPU
+		{63A6C2B0-020A-4EB0-8B61-4E893C4477E2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{63A6C2B0-020A-4EB0-8B61-4E893C4477E2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{63A6C2B0-020A-4EB0-8B61-4E893C4477E2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{63A6C2B0-020A-4EB0-8B61-4E893C4477E2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {242EABD4-F8A8-49A5-93F7-D0DF97409BEE}
+	EndGlobalSection
+EndGlobal
